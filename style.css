@@ -7,7 +7,7 @@
 div>p:first-child {
     color: red;
 }
-p {
+.text-box>p:nth-child(odd) {
     color:green
 }
 
